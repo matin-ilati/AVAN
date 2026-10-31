@@ -31,7 +31,7 @@ Screenshots coming soon.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/AVAN.git
+git clone https://github.com/matin-ilati/AVAN.git
 cd AVAN
 ```
 
